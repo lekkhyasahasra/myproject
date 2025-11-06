@@ -1,4 +1,0 @@
-a = "hello world"
-b = "welcome to git"
-print(a)
-print(b)
